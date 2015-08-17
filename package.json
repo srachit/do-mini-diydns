@@ -1,0 +1,14 @@
+{
+  "name": "ip_updater",
+  "version": "1.0.0",
+  "description": "Update ip address of DO DNS to localhost ip which should be on port 80",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachit Sengupta",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
